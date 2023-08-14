@@ -13,13 +13,13 @@ Before you begin, make sure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/john-eighteenth/clothes-tryon-js.git
+git clone https://github.com/TexelModa/virtual-try-on-python.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd clothes-tryon-js
+cd virtual-try-on-python
 ```
 
 3. Install any necessary dependencies:
