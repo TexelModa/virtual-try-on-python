@@ -25,7 +25,7 @@ cd clothes-tryon-js
 3. Install any necessary dependencies:
 
 ```
-yarn install
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -39,7 +39,7 @@ yarn install
 4. Run the virtual dressing room script:
 
 ```
-python src/index.py
+python src/main.py
 ```
 
 5. The script will generate an output image (`result.jpg`) showing the avatar wearing the chosen clothing item.
